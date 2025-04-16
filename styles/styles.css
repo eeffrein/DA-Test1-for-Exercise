@@ -12,7 +12,7 @@
 
 :root {
   /* colors */
-  --background-color: white;
+  --background-color: black;
   --light-color: #f8f8f8;
   --dark-color: #505050;
   --text-color: #131313;
@@ -24,7 +24,7 @@
   --heading-font-family: roboto-condensed, roboto-condensed-fallback, sans-serif;
 
   /* body sizes */
-  --body-font-size-m: 22px;
+  --body-font-size-m: 36px;
   --body-font-size-s: 19px;
   --body-font-size-xs: 17px;
 
